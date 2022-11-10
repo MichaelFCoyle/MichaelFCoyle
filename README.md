@@ -4,7 +4,13 @@
 
 Mastodon       |
 :-------------------------:|
-[![personal linkedin](https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png?raw=true)](https://mstdn.social/@Oplopanax)
+[![Mastodon](https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png?raw=true)](https://mstdn.social/@Oplopanax)
+
+</div>
+
+Mastodon       |
+:-------------------------:|
+<a rel="me" href="https://mstdn.social/@Oplopanax"><img src="https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png></a> 
 
 </div>
 
