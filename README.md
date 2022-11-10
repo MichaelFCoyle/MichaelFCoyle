@@ -10,7 +10,7 @@ Mastodon       |
 
 Mastodon       |
 :-------------------------:|
-<a rel="me" href="https://mstdn.social/@Oplopanax"><img src="https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png></a> 
+<a rel="me" href="https://mstdn.social/@Oplopanax"><img src="https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png"/></a> 
 
 </div>
 
