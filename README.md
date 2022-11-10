@@ -2,9 +2,9 @@
 
 <div align='center'>
 
-Personal LinkedIn       |
+Mastodon       |
 :-------------------------:|
-[![personal linkedin](https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png?raw=true)](https://mstdn.social/@Oplopanax")
+[![personal linkedin](https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png?raw=true)](https://mstdn.social/@Oplopanax)
 
 </div>
 
