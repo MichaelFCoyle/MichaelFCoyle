@@ -1,18 +1,6 @@
 ### Michael Coyle
 
-<div align='center'>
-
-Mastodon       |
-:-------------------------:|
-[![Mastodon](https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png?raw=true)](https://mstdn.social/@Oplopanax)
-
-</div>
-
-Mastodon       |
-:-------------------------:|
-<a rel="me" href="https://mstdn.social/@Oplopanax"><img src="https://github.com/MichaelFCoyle/MichaelFCoyle/blob/main/blue-toque-100.png"/></a> 
-
-</div>
+A developer based in Squamish, BC with expertise in C#, C++, IoT, sensor fusion, software architecture, emergency management, and Search and Rescue.
 
 <!--
 <a rel="me" href="https://mstdn.social/@Oplopanax">Mastodon</a>
